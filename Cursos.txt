@@ -1,0 +1,4 @@
+1111;Calculo;2;24;52
+2222;Lenguaje;3;12;24
+3333;Matematica;2;14;22
+4444;Aritmetica;1;21;41
